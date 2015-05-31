@@ -7,3 +7,4 @@ Createing a new branch is quick and simple.
 Add by feature1.
 add by dev.
 add by dev.
+fixed bug issue-102
